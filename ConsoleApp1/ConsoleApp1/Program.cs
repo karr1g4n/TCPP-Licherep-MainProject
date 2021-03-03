@@ -10,6 +10,7 @@ namespace ConsoleApp1
             Console.WriteLine("first");
             Console.WriteLine("second");
             Console.WriteLine("from web");
+            Console.WriteLine("from IDE2");
         }
     }
 }
