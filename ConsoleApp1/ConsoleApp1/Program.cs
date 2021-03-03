@@ -9,6 +9,7 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World!");
             Console.WriteLine("first");
             Console.WriteLine("second");
+            Console.WriteLine("from IDE");
         }
     }
 }
