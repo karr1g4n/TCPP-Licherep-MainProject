@@ -10,6 +10,9 @@ namespace ConsoleApp1
             Console.WriteLine("Hello Worl2!");
             Console.WriteLine("Hello Worl");
             //прийнято 04.03.2021
+
+
+
         }
     }
 }
